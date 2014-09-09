@@ -1,0 +1,3 @@
+wowza_stream:
+    resource: "@WowzaStreamBundle/Resources/config/routing.yml"
+    prefix:   /

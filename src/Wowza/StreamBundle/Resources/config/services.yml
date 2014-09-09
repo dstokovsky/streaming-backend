@@ -1,0 +1,7 @@
+parameters:
+#    wowza_stream.example.class: Wowza\StreamBundle\Example
+
+services:
+#    wowza_stream.example:
+#        class: %wowza_stream.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
