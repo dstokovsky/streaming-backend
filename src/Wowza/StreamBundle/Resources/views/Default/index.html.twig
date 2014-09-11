@@ -1,1 +1,7 @@
-Hello {{ name }}!
+<h1>Streams</h1>
+
+<ul>
+    {% for stream in streams %}
+        <li>{{ stream.name }}</li>
+    {% endfor %}
+</ul>
